@@ -18,5 +18,7 @@ This is what it looks like.
 
 Try to play arround with the preset at the bottom of the curve for better understanding.  
 
+Separate axes is to configure size for X, Y, Z for advanced size customization.  
+
 ### Further Read
 [Size Over Lifetime](https://docs.unity3d.com/Manual/PartSysSizeOverLifeModule.html)  
