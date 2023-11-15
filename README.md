@@ -4,8 +4,11 @@
 
 ## Overview
 ## Coverage
-- [Modules](#modules)
-- [Implementation: Smoke Particles](#implementation-smoke-particle)
+- [Particle System](#particle-system)
+  - [Overview](#overview)
+  - [Coverage](#coverage)
+    - [Modules](#modules)
+    - [Implementation: Smoke Particle](#implementation-smoke-particle)
 ### Modules
 There are 24 modules, including main, in total.    
 
@@ -22,4 +25,4 @@ One of the simple example of particle system utilization is creating smoke effec
 
 ![](/resources/smoke.gif)
 
-[Go to implementation](/16-Smoke-Particle)
+[Go to implementation](/14-Implementation-Smoke-Particle)

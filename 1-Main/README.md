@@ -2,7 +2,7 @@
 
 ## Create Particle System
 
-Right click on the panel -> Select `effects` -> Select `Particle System`  
+Right click on the panel -> Select `effects` -> Select `Particle System`
 
 ![](/resources/create-particle-system.png)  
 
