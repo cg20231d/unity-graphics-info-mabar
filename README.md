@@ -1,6 +1,6 @@
 # Particle System
-- Nadif mustafa / 5025211127
-- Nizam hakim S / 5025211209
+- Nadif Mustafa / 5025211127
+- Nizam Hakim S / 5025211209
 
 ## Overview
 ## Coverage
@@ -25,4 +25,4 @@ One of the simple example of particle system utilization is creating smoke effec
 
 ![](/resources/smoke.gif)
 
-[Go to implementation](/14-Implementation-Smoke-Particle)
+[Go to implementation](/14-Implementation-Smoke-Effect)
