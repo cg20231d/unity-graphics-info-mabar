@@ -6,15 +6,15 @@ Add real-time lights to a percentage of your particles.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/ee8142e9-93a5-4b64-83ef-e17e56ccc23d)
 
-First, let's create a point light.
+First, let's create a `Point Light`.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/8f84df18-96d8-4928-8edb-fa9a14f85f7c)
 
-You can change the color of the point light.
+You can change the color of the `Point Light`.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/6a7a68a8-c6e6-4549-bdaa-4bd16257503a)
 
-Drag the Point Light to the light property.
+Drag the `Point Light` to the `Light` property.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/e66728d4-97f3-4fb8-97b6-f6dc9a3babbf)
 

@@ -14,7 +14,7 @@ You can change the color of the material.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/87505236-828e-430f-ad30-423cf0f14f29)
 
-Drag the Material to the Trail Material Property on the Renderer Module.
+Drag the `Material` to the `Trail Material` Property on the `Renderer Module`.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/11de60b6-067d-414e-bc57-5cb851aafeb9)
 
