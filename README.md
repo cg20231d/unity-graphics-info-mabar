@@ -20,4 +20,6 @@ However, we will not be covering all of this modules since we are aiming for a b
 ### Implementation: Smoke Particle
 One of the simple example of particle system utilization is creating smoke effect.  
 
-![](/resources/smoke.gif)  
+![](/resources/smoke.gif)
+
+[Go to implementation](/16-Smoke-Particle)
