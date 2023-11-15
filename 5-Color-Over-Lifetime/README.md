@@ -24,5 +24,10 @@ This is what it looks like.
 
 ![](/resources/red-blue.gif)  
 
+### How it works?
+Color over lifetime works by blending `Start Color` from main module with `Color` from color over lifetime module. That's why we need to set `Start Color` to white. This is what we got for the same configuration but `Start Color` is green.  
+
+![](/resources/blended.gif)  
+
 ### Further Read
-[Color Over Lifetime Module](https://docs.unity3d.com/Manual/PartSysColorOverLifeModule.html)
+[Color Over Lifetime Module](https://docs.unity3d.com/Manual/PartSysColorOverLifeModule.html)  
