@@ -34,13 +34,21 @@ Then create a new material, for example let's name it `Smoke Sprite`.
 
 ![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/338714f1-9503-4902-ae74-3251baf14ba9)
 
-Click on the `Smoke Sprite`, then change the `Shader` to `Sprites/Default`.
+Drag the sprite that you want to use to `Albedo`.
 
-![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/039d8099-7653-41f4-9694-355aba3ccdf9)
+![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/fb16a441-8972-4381-999d-dd3a4faa9c0b)
 
-Then it should look like this :
+Then change the `Shader` to `Sprites/Default`.
 
+![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/74a2db4f-1cb1-4308-b87f-232c6b758a7e)
 
+Drag the `Smoke Sprite` to `Material` on `Renderer Module`
+
+![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/7ce8043e-7d29-49c3-b944-68f3c7014a5e)
+
+Then it should look like this:
+
+![image](https://github.com/cg20231d/unity-graphics-info-mabar/assets/58579201/f154dcce-0c30-4192-a046-d4648ef43f89)
 
 ## Further Read
 
