@@ -85,8 +85,8 @@ Change smoke-sprites shader type to sprite/default
 
 ![](/resources/implementation/i-sprites-default.png)
 
-### 6. Drag smoke-sprites ke material
-Drag smoke-sprites ke material pada module renderer.  
+### 6. Drag smoke-sprites to material
+Drag smoke-sprites to material in renderer module.
 
 ![](/resources/implementation/i-sprite-drag.gif)  
 
